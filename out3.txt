@@ -1,0 +1,9 @@
+How many iterations should be performed? How many decimal places should be reported? Warning: Cannot report > 7 decimal places.
+pi is approximately 2.8284271.
+pi is approximately 3.0614675.
+pi is approximately 3.1214452.
+pi is approximately 3.1365485.
+pi is approximately 3.1403312.
+pi is approximately 3.1412773.
+pi is approximately 3.1415138.
+pi is approximately 3.1415729.

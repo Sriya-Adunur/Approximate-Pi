@@ -1,0 +1,9 @@
+How many iterations should be performed? How many decimal places should be reported? Warning: Cannot report < 0 decimal places.
+pi is approximately 3.0.
+pi is approximately 3.0.
+pi is approximately 3.0.
+pi is approximately 3.0.
+pi is approximately 3.0.
+pi is approximately 3.0.
+pi is approximately 3.0.
+pi is approximately 3.0.

@@ -1,0 +1,4 @@
+How many iterations should be performed? How many decimal places should be reported? pi is approximately 2.83.
+pi is approximately 3.06.
+pi is approximately 3.12.
+pi is approximately 3.14.
